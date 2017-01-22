@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="2563-82c8-3181-f6f8" name="Warband" revision="1" battleScribeVersion="2.00" gameSystemId="300f-b280-6b62-4172" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <profiles/>
+  <rules/>
+  <infoLinks/>
+  <costTypes/>
+  <profileTypes/>
+  <forceEntries/>
+  <selectionEntries/>
+  <entryLinks>
+    <entryLink id="194a-638f-f728-441f" name="New EntryLink" hidden="false" targetId="ce1a-a206-77fa-92d0" type="selectionEntry" categoryEntryId="a326-b7d7-a8a0-c0a7">
+      <profiles/>
+      <rules/>
+      <infoLinks/>
+      <modifiers/>
+      <constraints/>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries/>
+  <sharedSelectionEntryGroups/>
+  <sharedRules/>
+  <sharedProfiles/>
+</catalogue>
